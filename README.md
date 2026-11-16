@@ -8,4 +8,4 @@ Plain static HTML, served by GitHub Pages. No build step.
 - `style.css` – all styling
 - `photo.jpg` – profile photo
 
-CV: `paciello_cv.pdf` (replace the file to update). Papers: `papers/`.
+CV: source `cv/paciello_cv.tex` → compile with pdflatex → copy PDF to `paciello_cv.pdf`. Papers: `papers/`.
