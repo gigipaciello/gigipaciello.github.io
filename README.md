@@ -8,5 +8,4 @@ Plain static HTML, served by GitHub Pages. No build step.
 - `style.css` – all styling
 - `photo.jpg` – profile photo
 
-To update the CV, replace the Dropbox link (it appears in the nav of all three pages and on the home page),
-or drop `cv.pdf` into the repo and point the links to `cv.pdf`.
+CV: `paciello_cv.pdf` (replace the file to update). Papers: `papers/`.
